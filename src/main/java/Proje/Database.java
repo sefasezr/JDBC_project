@@ -2,7 +2,7 @@ package Proje;
 
 import java.sql.*;
 
-public class Veritabani {
+public class Database {
     private final String URL = "jdbc:postgresql://localhost:5432/spor_kurs";
     private final String USER = "proje";
     private final String PASSWORD = "password";
